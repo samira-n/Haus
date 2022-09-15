@@ -220,7 +220,7 @@ body{
 
 .orange_pic{
     height: 560px;
-    margin-top: 201px;
+    margin-top: 150px;
     background: url(img/orange_pic.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -245,3 +245,146 @@ body{
     font-family: 'Roboto';
     font-size: 18px;
 }
+
+/* fifth end*/
+/*sixth start*/
+
+.sixth_content{
+    display:flex;
+    justify-content: space-around;
+    padding: 59px;
+    align-items: center;
+}
+.sixth_desc{
+    padding-right: 59px;
+}
+.sixth_desc_1 p{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+.sixth_desc_1{
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.sixth_desc_2{
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+.sixth_desc_3{
+    font-size: 36px;
+}
+.sixth_desc_3 p{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    
+}
+.sixth_desc_4{
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+.sixth_desc_5{
+    font-size: 30px;
+}
+.sixth_desc_5 p{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    
+}
+.sixth_desc_6{
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+/* sisxth end */
+/* seventh start*/
+
+.seventh_content{
+    height: 313px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background-color: #000;
+}
+.seventh_desc{
+    font-family: 'Roboto';
+    display: flex;
+    padding: 70px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.seventh_desc_1{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 185px;
+}
+
+.seventh_desc_2{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 185px;
+}
+
+.seventh_desc_3{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title2{
+    font-size: 18px;
+    text-align: center;
+}
+
+.title2_1{
+    font-size: 14px;
+}
+
+.title2_2{
+    color: #8A8A8A;
+    font-size: 16px;
+}
+
+
+/*seventh end*/
+
+
+
+/*eight start*/
+
+.eight_content{
+    padding: 59px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.eight_img{
+    margin-right: 110px;
+}
+
+.eight_1{
+    font-size: 64px;
+    font-family: 'Roboto';
+    margin-bottom: 154px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+.eight_2{
+    font-size: 18px;
+    font-family: 'Roboto';
+    margin-bottom: 35px;
+}
+
+.eight_3{
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+
+
+/*eight end*/
